@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
+      "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
       "projectName": "modulo2-semana6-api",
-      "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
+      "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-api\\obj\\",
+      "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

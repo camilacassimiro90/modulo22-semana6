@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03b/7mxC2DtML82QL8RODFl6zfBNqLAGIryGsahaV85wEH2I4N0udEctxEr/LOq8QSbZNcfwSKi7yXLyeu8ThQ==",
+  "dgSpecHash": "YOEljsGcB9K8wD3oUGMm4hdRyQaQHgxEn56AlnuHgdrbC85AYYpbFyXBtxfqKVhn3rLrpmqbuSBlGj5Oq3+khA==",
   "success": true,
-  "projectFilePath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
+  "projectFilePath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
