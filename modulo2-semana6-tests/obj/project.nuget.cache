@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IiQDK+az/Q3jDR4jTUym0s3r3WCXwPJo/Ui1Yd3K5k7xsmiAOBOrB/80t1BMG6iSX8IDqsW2HLHAPH1V3KQ8xw==",
+  "dgSpecHash": "HMvUOkKrhAKqKlWJlLIDlwy5xG3s/JW9RRiAJ6m8FyO9L9J9+pNr+30nwbEqYOrb6e3HoRt/nGzQoy9nuX0VqA==",
   "success": true,
-  "projectFilePath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
+  "projectFilePath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

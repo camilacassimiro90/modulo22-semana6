@@ -6198,11 +6198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
+      "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
       "projectName": "modulo2-semana6-tests",
-      "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
+      "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-tests\\modulo2-semana6-tests.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-tests\\obj\\",
+      "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6217,8 +6217,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj": {
-              "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo22-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj"
+            "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj": {
+              "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\modulo2-semana6\\modulo2-semana6-api\\modulo2-semana6-api.csproj"
             }
           }
         }
