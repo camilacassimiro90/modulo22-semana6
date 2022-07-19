@@ -1,5 +1,4 @@
 namespace modulo2_semana6_test;
-
 public class VerdadeiroFalsoTest : ConfiguracaoHostApi
 {
   [Theory]
