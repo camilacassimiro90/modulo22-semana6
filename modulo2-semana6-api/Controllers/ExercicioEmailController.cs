@@ -18,35 +18,31 @@ public class ExercicioEmailController : ControllerBase
   [HttpGet("{email}")]
   public string Get(string email)
   {
-    if (ValidarEmail(email))
+    string regex = @"^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$";
+    Regex validation = new(regex);
+
+    if (DateTime.Now.Minute >= 30)
     {
-      return "E-mail inválido";
+      throw new TrintaMinutosException("Erro na requsição o minuto está acima de 30");
     }
-    return "E-mail inválido";
-    throw new EmailInvalidoException(email);
-  }
 
-  private static bool ValidarEmail(string email)
-  {
-    var regexEmail = @"^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$";
+    if (!validation.IsMatch(email))
+    {
+      return "Email inválido";
+    }
 
-    var valido = Regex.IsMatch(email, regexEmail);
-    if (valido)
-      return true;
-
-    return false;
-
+    return email;
   }
 }
-[Serializable]
-public class EmailInvalidoException : Exception
-{
-  public EmailInvalidoException()
-  {
-  }
-  public EmailInvalidoException(string email)
-  : base(String.Format($"E-mail inválido: {email}"))
-  {
 
-  }
+
+[Serializable]
+public class TrintaMinutosException : Exception
+{
+  public TrintaMinutosException() { }
+  public TrintaMinutosException(string message) : base(message) { }
+  public TrintaMinutosException(string message, Exception inner) : base(message, inner) { }
+  protected TrintaMinutosException(
+    System.Runtime.Serialization.SerializationInfo info,
+    System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
 }
